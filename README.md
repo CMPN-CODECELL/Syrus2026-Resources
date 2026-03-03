@@ -19,7 +19,7 @@ Syrus-26-resources/
 │       └── Readme_Participants.md # Participant guidelines
 │
 ├── PS03/
-│   ├── guidelines.md              # Agent design guidelines
+│   ├── README.md              # Agent design guidelines
 │   ├── company_overview.md        # Company background
 │   ├── architecture_documentation.md
 │   ├── engineering_standards.md
